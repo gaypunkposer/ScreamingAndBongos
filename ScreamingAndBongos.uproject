@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{BDD6D8ED-49D3-8CFD-49DA-CA8C0C0F4E7F}",
+	"EngineAssociation": "{E3E3316E-4565-4742-6137-F3A868E068EC}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,6 +10,30 @@
 		},
 		{
 			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosSolverPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosNiagara",
+			"Enabled": true
+		},
+		{
+			"Name": "PlanarCut",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryCollectionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "FieldSystemPlugin",
 			"Enabled": true
 		}
 	]
